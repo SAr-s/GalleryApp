@@ -1,0 +1,10 @@
+/* Write your code here. */
+.main-image {
+  height: 500px;
+  width: 500px;
+}
+
+.item-container {
+  display: flex;
+  flex-direction: row;
+}
